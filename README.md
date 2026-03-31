@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack Developer & Web Designer | Student at Dr. Akhilesh Das Gupta Institute of professional studies | Currently working on my own business website | Freelancing
+Full stack Developer & Web Designer | Final Year | Currently working on my own business website | Freelancing
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack Developer & Web Designer | Final Year | Currently working on my own business website | Freelancing
+Full stack Developer & Web Designer | Final Year | Currently working on my own business website | Freelancing |
 Skilled in translating product vision into secure, high-performance web applications that deliver measurable business impact. Experienced in integrating AI-driven workflows and cross-functional collaboration to ship reliable, user-first digital solutions.I just don’t write code, I architect the solutions that bridge the gap between complex business requirements and seamless user experience.
 
 
